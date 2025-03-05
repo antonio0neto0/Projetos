@@ -57,3 +57,4 @@ driver, wait = iniciar_driver()
 
 # 1 - Navegar até https://automatize.netlify.app/
 driver.get('https://automatize.netlify.app')
+input('')
