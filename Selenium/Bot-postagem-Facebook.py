@@ -85,5 +85,4 @@ sleep(3)
 botao_publicar = driver.find_element(By.XPATH,"//div[@class='l9j0dhe7 du4w35lb j83agx80 pfnyh3mw taijpn5t bp9cbjyn owycx6da btwxx1t3 kt9q3ron ak7q8e6j isp2s0ed ri5dt5u2 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv d1544ag0 tw6a2znq s1i5eluu tv7at329']")
 sleep(2)
 botao_publicar.click()
-
 input('')
